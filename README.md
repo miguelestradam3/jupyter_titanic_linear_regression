@@ -1,0 +1,2 @@
+# jupyter_titanic_linear_regression
+Coursera Guided Project
