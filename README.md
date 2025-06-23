@@ -1,2 +1,4 @@
-# jupyter_titanic_linear_regression
+# Titanic event analysis
+
+### Code on Jupyter notebook
 Coursera Guided Project
